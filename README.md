@@ -31,6 +31,6 @@ Configure the pull request:
 
 ## About
 
-I am Marwan Al-Masrat. This repository is for AI.SPIRE Pre-Work Day 1 and 2 exercises.
+I am Marwan Al-Masrat one of AI.SPIRE student. This repository is for AI.SPIRE Pre-Work.
 
 
