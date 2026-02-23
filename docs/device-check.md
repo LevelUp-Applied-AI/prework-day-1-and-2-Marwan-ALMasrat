@@ -31,7 +31,9 @@
       <img width="251" height="60" alt="Free Disk Space" src="https://github.com/user-attachments/assets/432b9c7e-4c15-4604-85ea-907b881ecef9" />
 - [x] Screenshot: Internet speed test result
       <img width="750" height="400" alt="Internet speed" src="https://github.com/user-attachments/assets/1c6afb86-9f3b-4f33-8fc6-a1b4ad33233f" />
+      
 - [x] Screenshot: Admin rights confirmed
+      
       <img width="459" height="499" alt="Admin" src="https://github.com/user-attachments/assets/015b6148-8c7c-4706-9d83-83ea81198430" />
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
