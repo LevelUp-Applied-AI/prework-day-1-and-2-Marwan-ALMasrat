@@ -34,6 +34,7 @@
       
 - [x] Screenshot: Admin rights confirmed
       <img width="459" height="499" alt="Admin" src="https://github.com/user-attachments/assets/015b6148-8c7c-4706-9d83-83ea81198430" />
+      
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
 - [ ] Screenshot: `wsl --status` output
