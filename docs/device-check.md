@@ -43,10 +43,12 @@
 
 ## Admin Rights Confirmation
 
-**Result:** [Paste command output, or write "Confirmed via System Settings"]
+<img width="1353" height="728" alt="Right" src="https://github.com/user-attachments/assets/4775e1e3-2739-4081-87fa-73d9687e3d2d" />
+
+**Result:** [Confirmed via System Settings]
 
 ---
 
 ## Device Notes
 
-[Any device issues, constraints, or concerns. Write "None" if everything checks out.]
+[None]
