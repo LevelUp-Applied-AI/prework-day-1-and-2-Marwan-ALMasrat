@@ -33,4 +33,10 @@ Configure the pull request:
 
 I am Marwan Al-Masrat one of AI.SPIRE student. This repository is for AI.SPIRE Pre-Work.
 
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-Marwan-ALMasrat.git
+cd prework-day-1-and-2-Marwan-ALMasrat
+
 
