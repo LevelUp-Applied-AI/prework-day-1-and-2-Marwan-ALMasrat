@@ -37,7 +37,11 @@
       
 **Windows only:**
 - [ ] Screenshot: `wsl -l -v` output showing WSL 2
+      <img width="981" height="180" alt="showing WSL 2" src="https://github.com/user-attachments/assets/bbc1b3d1-0a8f-49ac-9078-403e5cdf765c" />
+
 - [ ] Screenshot: `wsl --status` output
+      <img width="977" height="227" alt="wsl status" src="https://github.com/user-attachments/assets/cbab4140-a0d5-4f10-a3d3-72e2c69a8805" />
+
 
 ---
 
