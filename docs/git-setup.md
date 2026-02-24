@@ -1,7 +1,7 @@
-# Git Setup Log — [Your Name]
+# Git Setup Log — [Marwan Al-Masrat]
 
 **Program:** AI.SPIRE Pre-Work
-**Date completed:** [YYYY-MM-DD]
+**Date completed:** [2026-2-23]
 **GitHub username:** [Marwan Al-Masrat]
 
 ---
@@ -13,7 +13,7 @@ Run `git config --list` in your terminal and fill in your configured values:
 | Config key | Your value |
 |------------|------------|
 | `user.name` |Marwan Al-Masrat|
-| `user.email` | masrat.marwan@gmail.com | | `core.autocrlf` | |
+| `user.email` | masrat.marwan@gmail.com | | `core.autocrlf` |true|
 
 ---
 
@@ -21,9 +21,9 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 | Field | Your value |
 |-------|------------|
-| Operating system | | 
-| Terminal used | |
-| Git version (`git --version`) | |
+| Operating system | Windows 10| 
+| Terminal used |Git bash|
+| Git version (`git --version`) |2.52.0.windows.1|
 
 ---
 
@@ -31,16 +31,27 @@ Run `git config --list` in your terminal and fill in your configured values:
 
 - [x] Personal Access Token created in GitHub Settings
 - [x] PAT stored securely
-- [ ] Credential caching confirmed — Git does not re-prompt on push
+- [x] Credential caching confirmed — Git does not re-prompt on push
 
 ---
 
 ## Clone Verification
 
-[Paste output of `git status` here]
+[$ git status
+On branch pr-01-git-setup
+Your branch is up to date with 'origin/pr-01-git-setup'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        prework-day-1-and-2-Marwan-ALMasrat/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+User@DESKTOP-OARIPQU MINGW64 ~/aispire/prework-day-1-and-2-Marwan-ALMasrat (pr-01-git-setup)
+]
 
 ---
 
 ## Notes
 
-[Any issues encountered during setup, or "None."]
+[None]
